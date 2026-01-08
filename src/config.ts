@@ -72,7 +72,7 @@ export const siteConfig = {
     {
       company: "Local School, New Delhi",
       title: "Teacher (Part-Time)",
-      dateRange: "Sep 2024 - Feb 2025",
+      dateRange: "Aug 2023 - Oct 2024",
       bullets: [
         "Managed classroom operations while balancing academic responsibilities",
         "Demonstrated leadership, conflict handling, and structured communication",
