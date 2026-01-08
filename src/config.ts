@@ -70,6 +70,15 @@ export const siteConfig = {
       ],
     },
     {
+      company: "Teach for India",
+      title: "Volunteer Teacher",
+      dateRange: "Sep 2024 - Feb 2025",
+      bullets: [
+        "Mentored Grade 10 students in English and History at a government school",
+        "Developed empathy, adaptability, and stakeholder engagement skills",
+      ],
+    },
+    {
       company: "Local School, New Delhi",
       title: "Teacher (Part-Time)",
       dateRange: "Aug 2023 - Oct 2024",
@@ -77,15 +86,6 @@ export const siteConfig = {
         "Managed classroom operations while balancing academic responsibilities",
         "Demonstrated leadership, conflict handling, and structured communication",
         "Built strong interpersonal relationships with students and faculty",
-      ],
-    },
-    {
-      company: "Teach for India",
-      title: "Volunteer Teacher",
-      dateRange: "Sep 2024 - Feb 2025",
-      bullets: [
-        "Mentored Grade 10 students in English and History at a government school",
-        "Developed empathy, adaptability, and stakeholder engagement skills",
       ],
     },
     {
